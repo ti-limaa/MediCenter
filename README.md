@@ -2,7 +2,7 @@
 
 Projeto de página institucional para um centro médico, desenvolvido como parte do meu aprendizado em HTML e CSS no curso da B7Web.
 
-Possui estrutura clara, visual limpo e responsividade básica para diferentes tamanhos de tela.
+Possui estrutura clara, visual limpo e responsividade básica.
 
 ---
 
