@@ -3,6 +3,9 @@
 
 Página institucional para um centro médico, desenvolvida como exercício prático durante o curso de front-end da B7Web. O foco principal foi aplicar **HTML Semântico** e **Flexbox** na construção de layouts modernos e responsivos.
 
+<div align="center">
+  <img src="Medicenter.png"  alt="Preview do projeto"/>
+</div>
 ---
 
 ## 🧩 Funcionalidades
